@@ -1,7 +1,8 @@
 
-# 🔍 Unveiling the Power of Unsupervised Learning: Object Recognition with PCA
+# Object Recognition with Dimensionality Reduction (PCA)
 
-This repository is dedicated to 'Unveiling the Power of Unsupervised Learning: Object Recognition with PCA'. It contains a Machine Learning model that leverages Principal Component Analysis (PCA) for object recognition. The model demonstrates the effectiveness of unsupervised learning techniques in recognizing and classifying objects in images. The goal of this project is to explore and highlight the potential of unsupervised learning in the field of computer vision.
+This repository focuses on 'Object Recognition with Dimensionality Reduction (PCA)'. It contains a Machine Learning model that uses Principal Component Analysis (PCA) for object recognition. The model demonstrates how dimensionality reduction can be effectively used in recognizing and classifying objects in images. The goal of this project is to explore the power of PCA in the field of computer vision and object recognition.
+
 
 
 
@@ -12,14 +13,12 @@ This repository is dedicated to 'Unveiling the Power of Unsupervised Learning: O
 
 **PCA for Dimensionality Reduction**: I used PCA to reduce the dimensionality of the data while preserving as much variance as possible. This helped in reducing computational costs and mitigating the curse of dimensionality.
 
-**Unsupervised Learning**: I trained an unsupervised machine learning model on the transformed data. Without any prior labels, the model was able to identify clusters corresponding to different objects.
-
-**Object Recognition**: The final step was to assign labels to the clusters identified by the model, effectively achieving object recognition.
+**Model Training**: I experimented with Support-Vector-machines algorithms before and after Dimensionality Reduction (PCA). Each model was trained and evaluated using R-squared techniques.
 
 
 ## Lessons Learned
 
-This project was a fascinating exploration of the capabilities of unsupervised learning and PCA. It was particularly interesting to see how these techniques can be applied to real-world problems like object recognition.
+This project was a fascinating exploration of the capabilities of PCA and machine learning. It was particularly interesting to see how these techniques can be applied to real-world problems like object recognition.
 
 I’m excited about the potential applications of this project and look forward to exploring more ways to leverage machine learning in the future.
 
