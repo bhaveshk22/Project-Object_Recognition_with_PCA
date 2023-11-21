@@ -1,0 +1,7 @@
+Numpy
+Pandas
+Matplotlib.pyplot
+Seaborn
+Sklearn
+Support-Vector-Machine(SVM)
+Principal-Component-Analysis(PCA)
